@@ -1,0 +1,46 @@
+    h1{
+        color: maroon;
+        background-color:lightgreen;
+        width: 500px;
+        margin: auto;
+    }
+    h2{
+        color: seagreen;
+        background-color:lightsalmon;
+        width: 800px;
+        margin: auto;
+    }
+    h3{
+        color: slateblue;
+        background-color:violet;
+    }
+    h4{
+        color: chocolate;
+    }
+    img{
+        width: 30%;
+    }
+    body{
+        background-color:lightskyblue;
+        text-align: center;
+    }
+    ul{ 
+        font-family: supermarket;
+        font-size: 15pt;
+        width: 300px;
+        margin: auto;
+    }
+    div.direct_link{
+        font-size: 20px;
+        font-weight: bolder;
+        color: brown;
+        width: 400px;
+        margin: auto;
+    }
+    div.page_content{
+        font-size: 20px;
+        font-weight: inherit;
+        color: black;
+        width: 400px;
+        margin: auto;
+    }
